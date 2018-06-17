@@ -2,10 +2,10 @@ Create new depository on github and copy the url
 #	https://github.com/EtienneJanel/git-cheat-sheet
 
 open git shell and clone depository with
-	git clone https://github.com/EtienneJanel/git-cheat-sheet
+> git clone https://github.com/EtienneJanel/git-cheat-sheet
 
 change the directory on the shell with
-	cd C:\...\github\git-cheat-sheet
+> cd C:\...\github\git-cheat-sheet
 
 access the status with
 	git status
