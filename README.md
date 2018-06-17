@@ -1,5 +1,7 @@
+Cheat sheet to create a new project with github
+--
+
 Create new depository on github and copy the url
-> https://github.com/EtienneJanel/git-cheat-sheet
 
 open git shell and clone depository with
 > git clone https://github.com/EtienneJanel/git-cheat-sheet
