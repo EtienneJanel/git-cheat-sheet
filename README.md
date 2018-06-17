@@ -14,7 +14,7 @@ in sublime text, add te project with
 > Project > add folder to project
 
 sync with
-> git add filename.txt 	#add the file
-> git commit -m "added test.py"	#send a messag
+> git add/rm filename.txt 	#add the file
+> git commit -m "added/removed file"	#send a messag
 > git push	#send the information to github
 
